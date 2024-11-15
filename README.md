@@ -1,1 +1,1 @@
-## sammyuchiha session id generator
+## sammyuchiha session generator
